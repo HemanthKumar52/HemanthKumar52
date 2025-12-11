@@ -51,7 +51,7 @@ I'm a passionate developer who loves building innovative solutions and exploring
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dapphari007&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dapphari007&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ## 📈 Activity Graph
