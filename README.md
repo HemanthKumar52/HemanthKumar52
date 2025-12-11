@@ -1,16 +1,79 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Dapphari! 👋</h1>
 
-<!--
-**dapphari007/dapphari007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Software+Developer;Tech+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dapphari007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a passionate developer who loves building innovative solutions and exploring new technologies. I enjoy working on challenging projects and continuously learning to improve my skills.
+
+- 🔭 I'm currently working on exciting projects in web development and beyond
+- 🌱 I'm continuously learning and exploring new technologies
+- 👯 I'm looking to collaborate on open source projects
+- 💬 Ask me about coding, technology, and software development
+- 📫 How to reach me: Check out my GitHub profile
+- ⚡ Fun fact: I love turning ideas into code!
+
+## 🛠️ Technologies & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Framework-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Tools-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dapphari007&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dapphari007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dapphari007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dapphari007&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dapphari007&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</p>
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/dapphari007">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>⭐️ Feel free to explore my repositories and don't forget to star them if you find them interesting! ⭐️</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+</p>
