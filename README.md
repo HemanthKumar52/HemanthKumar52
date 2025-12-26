@@ -50,7 +50,7 @@ I'm a passionate developer who loves building innovative solutions and exploring
 ### 💎 Top Languages & Contributions
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dapphari007&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&langs_count=8&exclude_repo=dapphari007" alt="Top Languages" width="49%" />
-<img src="https://github-contributor-stats.vercel.app/api?username=dapphari007&limit=5&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dapphari007&theme=radical" alt="Most Commit Language" width="49%" />
 
 </div>
 
