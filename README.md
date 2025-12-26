@@ -36,20 +36,33 @@ I'm a passionate developer who loves building innovative solutions and exploring
 
 ## 📊 GitHub Stats
 
-### 🏙️ GitHub Skyline
-[View my GitHub Skyline (3D Contribution Graph)](https://skyline.github.com/dapphari007/2024)
+<div align="center">
+  
+### 🌟 Achievements & Metrics
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dapphari007&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=dapphari007&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dapphari007&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=58a6ff&dates=8b949e&sideLabels=c9d1d9&border_radius=10" alt="GitHub Streak" width="49%" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dapphari007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dapphari007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p> -->
+<div align="center">
+  
+### 💎 Top Languages & Contributions
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dapphari007&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&langs_count=8&exclude_repo=dapphari007" alt="Top Languages" width="49%" />
+<img src="https://github-contributor-stats.vercel.app/api?username=dapphari007&limit=5&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="49%" />
+
+</div>
+
+<div align="center">
+
+### 🔥 Profile Statistics
+
+[![](https://visitcount.itsvg.in/api?id=dapphari007&icon=2&color=3)](https://visitcount.itsvg.in)
+[![GitHub followers](https://img.shields.io/github/followers/dapphari007?label=Followers&style=social)](https://github.com/dapphari007)
+[![GitHub stars](https://img.shields.io/github/stars/dapphari007?label=Stars&style=social)](https://github.com/dapphari007)
+
+</div>
 
 ## 🏆 GitHub Trophies
 
