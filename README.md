@@ -36,7 +36,8 @@ I'm a passionate developer who loves building innovative solutions and exploring
 
 ## 📊 GitHub Stats
 
-https://skyline.github.com/dapphari007/2024
+### 🏙️ GitHub Skyline
+[View my GitHub Skyline (3D Contribution Graph)](https://skyline.github.com/dapphari007/2024)
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dapphari007&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
