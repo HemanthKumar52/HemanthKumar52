@@ -40,10 +40,10 @@ I'm a passionate developer who loves building innovative solutions and exploring
   
 ### 🌟 Achievements & Metrics
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=dapphari007&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dapphari007&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=58a6ff&dates=8b949e&sideLabels=c9d1d9&border_radius=10" alt="GitHub Streak" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=dapphari007&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=50" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dapphari007&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=58a6ff&dates=8b949e&sideLabels=c9d1d9&border_radius=50" alt="GitHub Streak" width="49%" />
 
-</div> -->
+</div>
 
 <div align="center">
   
