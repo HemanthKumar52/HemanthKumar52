@@ -53,6 +53,15 @@ I am a developer who thrives on the intersection of creativity and logic. I don'
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+
+  <br>
+
+  <!-- Testing & QA -->
+  <img src="https://img.shields.io/badge/Codacy-222F3D?style=flat&logo=codacy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter_Test-02569B?style=flat&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
 </p>
 
 ## 📊 GitHub Stats
